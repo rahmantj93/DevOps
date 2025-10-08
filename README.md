@@ -6,4 +6,4 @@ hello I am under water please help me!
 
 [![Releases](https://img.shields.io/github/release/rahmantj93/devops/all.svg?style=flat-square)](https://github.com/<rahmantj93/devops/releases)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/rahmantj93/devops/<action name taken from main.yml>/develop?style=flat-square)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/rahmantj93/devops/A%20workflow%20for%20my%20Hello%20World%20App/devops?style=flat-square)
